@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	font-family: arial;
+}
+#total{
+	width: 100%;
+}
+#topo{
+	background-color: #AB2C2E;
+	color: #FFEDDB;
+	padding: 10px;
+	height: 150px;
+	padding-top: 50px;
+}
+#menu{
+	background-color: #FFEDDB;
+	padding: 10px;
+}
+
+#cont{
+	background-color: white;
+}
+.itemMenu{
+	background-color: #AB2C2E;
+	color: #104050;
+	height: 60px;
+	line-height: 60px;
+	margin: 5px 0px;
+	padding-left: 5px;
+	transition: background-color 1s;
+}
+.itemMenu:hover{
+	background-color: #555555;
+}

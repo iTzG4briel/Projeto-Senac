@@ -1,0 +1,9 @@
+Login ADM
+área ADM
+CRUD Funcionário
+CRUD Filme
+CRUD Categoria
+
+Home
+Filtro Filme
+Filtro Detalhe Filme
